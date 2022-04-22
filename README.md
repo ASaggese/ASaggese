@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ASaggese
 - 👀 I’m interested in coding in C language
 - 🌱 I’m currently learning this language for fun
-- 💞️ I’m looking to collaborate on very symple projects
+- 💞️ I’m looking to collaborate on very simple projects
 - 📫 How to reach me is easy. Just mail to saggese@unisa.it
 
 <!---
